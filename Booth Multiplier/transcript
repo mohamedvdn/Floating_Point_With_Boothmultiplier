@@ -1,0 +1,239 @@
+# Reading C:/altera/90/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Top Tb.v} 
+vlib work
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Adder Exponent.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Adder_Exponent_Bias
+# 
+# Top level modules:
+# 	Adder_Exponent_Bias
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/black ball.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module M_black_ball
+# 
+# Top level modules:
+# 	M_black_ball
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Booth 32 Bit Main.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Booth_Main32bit
+# 
+# Top level modules:
+# 	Booth_Main32bit
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Booth Encoder Partial Product Block1.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Booth_Encoder_PP_Block1
+# 
+# Top level modules:
+# 	Booth_Encoder_PP_Block1
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/diamond.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module M_diamond
+# 
+# Top level modules:
+# 	M_diamond
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Floating Seperation.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Floating_Seperation
+# 
+# Top level modules:
+# 	Floating_Seperation
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/kogge-stone.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module M_kogge_stone
+# 
+# Top level modules:
+# 	M_kogge_stone
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Main Adder Tree.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Main_Adder_Tree
+# 
+# Top level modules:
+# 	Main_Adder_Tree
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Mantissa Multiplier.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Mantissa_Multiplier
+# 
+# Top level modules:
+# 	Mantissa_Multiplier
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Mantissa_Normalisation.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Mantissa_Normalisation
+# 
+# Top level modules:
+# 	Mantissa_Normalisation
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Normalizer.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Normalizer
+# 
+# Top level modules:
+# 	Normalizer
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/PP Block1.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Main_PP_Block1
+# 
+# Top level modules:
+# 	Main_PP_Block1
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Sign Unit.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Sign_Unit
+# 
+# Top level modules:
+# 	Sign_Unit
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/square box.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Msquare_box
+# 
+# Top level modules:
+# 	Msquare_box
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Top FP Multiplier Single.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Floating_Point_Multiplier_Single_Precision_Booth
+# 
+# Top level modules:
+# 	Floating_Point_Multiplier_Single_Precision_Booth
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Top Tb.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Floating_Point_Multiplier_Vedic_hybrid_Tb
+# 
+# Top level modules:
+# 	Floating_Point_Multiplier_Vedic_hybrid_Tb
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/white ball.V}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module M_white_ball
+# 
+# Top level modules:
+# 	M_white_ball
+# Load canceled
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Adder Exponent.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Adder_Exponent_Bias
+# 
+# Top level modules:
+# 	Adder_Exponent_Bias
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/black ball.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module M_black_ball
+# 
+# Top level modules:
+# 	M_black_ball
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Booth 32 Bit Main.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Booth_Main32bit
+# 
+# Top level modules:
+# 	Booth_Main32bit
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Booth Encoder Partial Product Block1.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Booth_Encoder_PP_Block1
+# 
+# Top level modules:
+# 	Booth_Encoder_PP_Block1
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/diamond.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module M_diamond
+# 
+# Top level modules:
+# 	M_diamond
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Floating Seperation.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Floating_Seperation
+# 
+# Top level modules:
+# 	Floating_Seperation
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/kogge-stone.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module M_kogge_stone
+# 
+# Top level modules:
+# 	M_kogge_stone
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Main Adder Tree.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Main_Adder_Tree
+# 
+# Top level modules:
+# 	Main_Adder_Tree
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Mantissa Multiplier.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Mantissa_Multiplier
+# 
+# Top level modules:
+# 	Mantissa_Multiplier
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Mantissa_Normalisation.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Mantissa_Normalisation
+# 
+# Top level modules:
+# 	Mantissa_Normalisation
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Normalizer.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Normalizer
+# 
+# Top level modules:
+# 	Normalizer
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/PP Block1.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Main_PP_Block1
+# 
+# Top level modules:
+# 	Main_PP_Block1
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Sign Unit.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Sign_Unit
+# 
+# Top level modules:
+# 	Sign_Unit
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/square box.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Msquare_box
+# 
+# Top level modules:
+# 	Msquare_box
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Top FP Multiplier Single.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Floating_Point_Multiplier_Single_Precision_Booth
+# 
+# Top level modules:
+# 	Floating_Point_Multiplier_Single_Precision_Booth
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Top Tb.v}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module Floating_Point_Multiplier_Booth_Tb
+# 
+# Top level modules:
+# 	Floating_Point_Multiplier_Booth_Tb
+vlog -reportprogress 300 -work work {F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/white ball.V}
+# Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+# -- Compiling module M_white_ball
+# 
+# Top level modules:
+# 	M_white_ball
+vsim -gui work.Floating_Point_Multiplier_Booth_Tb
+# vsim -gui work.Floating_Point_Multiplier_Booth_Tb 
+# Loading work.Floating_Point_Multiplier_Booth_Tb
+# Loading work.Floating_Point_Multiplier_Single_Precision_Booth
+# Loading work.Floating_Seperation
+# Loading work.Adder_Exponent_Bias
+# Loading work.M_kogge_stone
+# Loading work.Msquare_box
+# Loading work.M_white_ball
+# Loading work.M_black_ball
+# Loading work.M_diamond
+# Loading work.Mantissa_Normalisation
+# Loading work.Mantissa_Multiplier
+# Loading work.Booth_Main32bit
+# Loading work.Main_PP_Block1
+# Loading work.Booth_Encoder_PP_Block1
+# Loading work.Main_Adder_Tree
+# Loading work.Normalizer
+# Loading work.Sign_Unit
+add wave -r sim:/Floating_Point_Multiplier_Booth_Tb/*
+# Load canceled
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run

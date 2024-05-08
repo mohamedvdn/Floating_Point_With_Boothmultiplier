@@ -1,0 +1,257 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Project_Work\1. Project Work\1. Trichy\1. VLSI\2. BE Students\10. FP BIT Campus Akila\Codes New\Codes New\Booth Multiplier
+vAdder_Exponent_Bias
+IB86eBlIb_UzU1?oLB^VcC1
+VM:lcd5;zEh2MICBaV0?in0
+w1713115364
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Adder Exponent.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Adder Exponent.v
+L0 1
+Z1 OV;L;6.4a;39
+r1
+31
+Z2 o-work work -O0
+n@adder_@exponent_@bias
+!s100 [;f2];Q9>Cb@mbRN[AFkY1
+!s85 0
+vBooth_Encoder_PP_Block1
+IbB]E8MQXa4[DCNnlMG8U51
+V9UeG0ecZN>M@S9W5=He020
+w1713115390
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Booth Encoder Partial Product Block1.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Booth Encoder Partial Product Block1.v
+L0 1
+R1
+r1
+31
+R2
+n@booth_@encoder_@p@p_@block1
+!s100 Sl?25f3;JAio3MFiVg@Q63
+!s85 0
+vBooth_Main32bit
+ISdliSg7fD76_RM]WbV1lQ1
+V^`QNZE9MQLUoYn0egoYdU2
+w1713115358
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Booth 32 Bit Main.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Booth 32 Bit Main.v
+L0 1
+R1
+r1
+31
+R2
+n@booth_@main32bit
+!s100 7YE8O0LV=FF?K9`<cXYIV2
+!s85 0
+vFloating_Point_Multiplier_Booth_Tb
+Ic=a7>hG>3o7N>9fgT<e972
+VNj>QSaV?33Nb2RAjoSTa[1
+w1713179793
+Z3 8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Top Tb.v
+Z4 FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Top Tb.v
+L0 1
+R1
+r1
+31
+R2
+n@floating_@point_@multiplier_@booth_@tb
+!s100 6=eL_HbZ^OJ6i^`RoY6BU0
+!s85 0
+vFloating_Point_Multiplier_Single_Precision_Booth
+IOIEI9[5>^2_YTE`R?JniJ2
+V:Bk7B5z6mbio2345a36j90
+w1713115378
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Top FP Multiplier Single.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Top FP Multiplier Single.v
+L0 1
+R1
+r1
+31
+R2
+n@floating_@point_@multiplier_@single_@precision_@booth
+!s100 SfZXHXM1M[V=[QfYWfERh3
+!s85 0
+vFloating_Point_Multiplier_Vedic_hybrid_Tb
+IiR60BG0d6EZI1U?oLNGXi1
+VhWziH8H2^9g19S;UVS[]=1
+w1713179292
+R3
+R4
+L0 1
+R1
+r1
+31
+R2
+n@floating_@point_@multiplier_@vedic_hybrid_@tb
+!s100 HEK29J^lIcXE`=nNZ8Ume3
+!s85 0
+vFloating_Seperation
+IQQ3TNXm;1_43fIGEN;`8W2
+VO2ZQ8iaM_ed3@H2klS0Ng3
+w1713115414
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Floating Seperation.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Floating Seperation.v
+L0 1
+R1
+r1
+31
+R2
+n@floating_@seperation
+!s100 @M4kTGm<Wa6:`<[<`X9mE3
+!s85 0
+vM_black_ball
+I[VWU7@2YBn=ajW6VVPSh<1
+VUNAZ0IUAbJKF]^I<9C:nW0
+w1713115362
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/black ball.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/black ball.v
+L0 1
+R1
+r1
+31
+R2
+n@m_black_ball
+!s100 4n4ZOPeMcVL@XIlT=`eA:2
+!s85 0
+vM_diamond
+I=Rb:Dk38<P3<8_Zgib@6I3
+VJ@Ka^izB:Ez?3M0o25PUW0
+w1713115416
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/diamond.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/diamond.v
+L0 1
+R1
+r1
+31
+R2
+n@m_diamond
+!s100 PG4PEKdH72]MNUfgVkG5f0
+!s85 0
+vM_kogge_stone
+IT;SR9AUZcz>i^i1H=0a=k2
+V[[^22nTe=KN50LDIhOEBz2
+w1713115410
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/kogge-stone.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/kogge-stone.v
+L0 1
+R1
+r1
+31
+R2
+n@m_kogge_stone
+!s100 imjXQPKXn:mY]Y?i;Sl]:3
+!s85 0
+vM_white_ball
+!s100 LhcSY:P^BGfb1E4@7UGJ13
+ImoC6]_0WG?]fP<BXW4?i[2
+V[55>KQd`b<X1azXodb7>l0
+w1713115380
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/white ball.V
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/white ball.V
+L0 1
+R1
+r1
+!s85 0
+31
+R2
+n@m_white_ball
+vMain_Adder_Tree
+ITQ75=N1ocNK:ee;:D[X8h3
+Vze4VNn2]OzcabLIhEn[M40
+w1713115406
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Main Adder Tree.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Main Adder Tree.v
+L0 1
+R1
+r1
+31
+R2
+n@main_@adder_@tree
+!s100 ^[9Tje8aH10R=BR68aHSQ2
+!s85 0
+vMain_PP_Block1
+IQ_=i6?i=IMP?XMDU:`7[O3
+VhV^oeF2dY05`<SdIL6Ye=1
+w1713115394
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/PP Block1.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/PP Block1.v
+L0 1
+R1
+r1
+31
+R2
+n@main_@p@p_@block1
+!s100 eJ;OY;n^nKXZK9>V2=MZU3
+!s85 0
+vMantissa_Multiplier
+Iac<;?ea:DGehD:UJ=bfKH1
+VNz=YUhzb1MlBNW3R]=o<N1
+w1713115402
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Mantissa Multiplier.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Mantissa Multiplier.v
+L0 1
+R1
+r1
+31
+R2
+n@mantissa_@multiplier
+!s100 LAk6aT2ogW[G9EkKU_kz<1
+!s85 0
+vMantissa_Normalisation
+I7PTE_:eNm4F3QZP4jLDRd0
+VLP<c1SjA0d0b>WO?i6Lhn2
+w1713115400
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Mantissa_Normalisation.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Mantissa_Normalisation.v
+L0 1
+R1
+r1
+31
+R2
+n@mantissa_@normalisation
+!s100 >I>PejaTV>69J_f5:>XEX3
+!s85 0
+vMsquare_box
+IeY]L5f<Wf8K=dDkRlY`@C0
+V[e@;gFDTNQSR;2WhN9ZLi1
+w1713115384
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/square box.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/square box.v
+L0 1
+R1
+r1
+31
+R2
+n@msquare_box
+!s100 MnRLdf7e1=hhgK:RWEU8X2
+!s85 0
+vNormalizer
+IVKmmM=Q4OjX0fh4zI`H?^2
+V9PnKhQTW?YVFnD_bEL1^90
+w1713115396
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Normalizer.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Normalizer.v
+L0 1
+R1
+r1
+31
+R2
+n@normalizer
+!s100 hEaJDDh4V;jXF_bLG]oVZ1
+!s85 0
+vSign_Unit
+I;Wj^HT>1cRF;EZ:dCXX_91
+V6gY5DBkRRgFmn=H[ADG952
+w1713115386
+8F:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Sign Unit.v
+FF:/Project_Work/1. Project Work/1. Trichy/1. VLSI/2. BE Students/10. FP BIT Campus Akila/Codes New/Codes New/Booth Multiplier/Sign Unit.v
+L0 1
+R1
+r1
+31
+R2
+n@sign_@unit
+!s100 EeG8<LLF<5^:kP^0Z>Kb^3
+!s85 0
